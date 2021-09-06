@@ -37,6 +37,9 @@ Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 - 🌱 I’m currently Studying for AWS Solution Architect
 
 
+### Sharing
+I'm trying to consolidate knowlege and help others via short articles in [DEV.TO/APEDROTTI](https://dev.to/apedrotti)
+
 <!--
 **aPedrotti/apedrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
