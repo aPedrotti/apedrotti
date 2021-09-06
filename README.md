@@ -3,11 +3,16 @@
 ## Summary
 
 ### Educational
-Started in 2006 in IT with System Analysis graduating in 2010. Specialized in Project Management (MBA 2013). 
+Started in IT in 2006 with System Analysis graduation. Specialized in Project Management (MBA 2013).
 
 
 ### Professional 
-Starting with support to end users, migrating to projects with Windows Servers and linux mixed-environments, currently specializing in DevOps Culture and Cloud Plataforms (currently working mostly with AWS)
+From hardware maintenance, migrating to projects with Windows Servers and linux mixed-environments, currently specializing in DevOps Culture and Cloud Plataforms (currently working mostly with AWS)
+
+Currently working as DevOps Specialist at [Gerdau](https://www.gerdau.com.br/)
+
+
+Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 
 
 ## Certifications
@@ -21,6 +26,12 @@ Starting with support to end users, migrating to projects with Windows Servers a
 <a href="https://www.credly.com/badges/d3c6c309-a52f-4293-9de3-3d5b9d72e242" target="_blank" title="Azure Fundamentals - AZ-900">
   <img src="https://github.com/apedrotti/badges/blob/main/azure-fundamentals.png" alt="Azure Fundamentals - AZ-900" width="150">
 </a>
+</a>
+<a href="https://www.credly.com/badges/1b77d79a-60a4-4448-afd2-deb6a1d06f05" target="_blank" title="Scrum Foundation Professional Certificate">
+  <img src="https://github.com/apedrotti/badges/blob/main/scrum-professional.png" alt="Scrum Foundation Professional Certificate" width="150">
+</a>
+
+
 
 <!--
 **aPedrotti/apedrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
