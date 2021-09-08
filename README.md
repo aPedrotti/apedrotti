@@ -40,7 +40,17 @@ Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 ### Sharing
 I'm trying to consolidate knowlege and help others via short articles in [DEV.TO/APEDROTTI](https://dev.to/apedrotti)
 
+
+<h3>⚙️ Stack</h3>
+
+  💻 Linux ● Docker ● Kubernetes ● Ansible ● Terraform ● Gitlab
+  
+  ⭐ Pop-OS ● VsCode ● Tilix ● Vim ● ZSH
+
 <!--
+
+[![Andre Pedrotti GitHub Stats](https://github-readme-stats.vercel.app/api?username=apedrotti&show_icons=true)](https://github.com/apedrotti)
+
 **aPedrotti/apedrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
