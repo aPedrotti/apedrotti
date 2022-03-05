@@ -26,6 +26,9 @@ Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 <a href="https://www.credly.com/badges/d3c6c309-a52f-4293-9de3-3d5b9d72e242" target="_blank" title="Azure Fundamentals - AZ-900">
   <img src="https://github.com/apedrotti/badges/blob/main/azure-fundamentals.png" alt="Azure Fundamentals - AZ-900" width="150">
 </a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=52A0542FB664EC4517C18E97232CEACCB7DDBD0BC3EF56118F4EC8CCACEABB8A" target="_blank" title="Azure Fundamentals - AZ-900">
+  <img src="https://github.com/apedrotti/badges/blob/main/oracle-foundations.png" alt="Oracle Infrastructure Foundations" width="150">
+</a>
 </a>
 <a href="https://www.credly.com/badges/1b77d79a-60a4-4448-afd2-deb6a1d06f05" target="_blank" title="Scrum Foundation Professional Certificate">
   <img src="https://github.com/apedrotti/badges/blob/main/scrum-professional.png" alt="Scrum Foundation Professional Certificate" width="150">
