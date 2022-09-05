@@ -33,6 +33,9 @@ Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 <a href="https://www.credly.com/badges/1b77d79a-60a4-4448-afd2-deb6a1d06f05" target="_blank" title="Scrum Foundation Professional Certificate">
   <img src="https://github.com/apedrotti/badges/blob/main/scrum-professional.png" alt="Scrum Foundation Professional Certificate" width="150">
 </a>
+<a href="https://www.credly.com/badges/c3902349-b0e6-48f1-9877-5911be664f6b" target="_blank" title="AWS Cloud Practitioner">
+  <img src="https://github.com/apedrotti/badges/blob/main/aws-foundation.png" alt="AWS Cloud Practitioner" width="150">
+</a>
 
 
 
