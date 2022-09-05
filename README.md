@@ -44,7 +44,9 @@ Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 
 
 ### Sharing
-I'm trying to consolidate knowlege and help others via short articles in [DEV.TO/APEDROTTI](https://dev.to/apedrotti)
+I'm trying to consolidate knowlege and help others via short articles in 
+
+[DEV.TO/APEDROTTI](https://dev.to/apedrotti)
 
 
 <h3>⚙️ Stack</h3>
