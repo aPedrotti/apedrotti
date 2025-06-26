@@ -9,7 +9,7 @@ Started in IT in 2006 with System Analysis graduation. Specialized in Project Ma
 ### Professional 
 From hardware maintenance, migrating to projects with Windows Servers and linux mixed-environments, currently specializing in DevOps Culture and Cloud Plataforms (currently working mostly with AWS)
 
-Currently working as DevOps Specialist at [Gerdau](https://www.gerdau.com.br/)
+Currently working as Lead DevOps Specialist at [ADP](https://br.adp.com/)
 
 
 Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
@@ -36,11 +36,13 @@ Feel free to reach on [Linkedin](https://www.linkedin.com/in/andrehpedrotti/)
 </a>
 <a href="https://www.credly.com/badges/1b77d79a-60a4-4448-afd2-deb6a1d06f05" target="_blank" title="Scrum Foundation Professional Certificate">
   <img src="https://github.com/apedrotti/badges/blob/main/scrum-professional.png" alt="Scrum Foundation Professional Certificate" width="150">
-
+<a href="https://www.credly.com/badges/73d414ca-ff9f-4a14-a26c-2e01efeb3494" target="_blank" title="Terraform Associate Certificate">
+  <img src="https://github.com/apedrotti/badges/blob/main/terraform.png" alt="Terraform Associate Certificate" width="150">
+</a>
 
 
 ### Next Steps
-- 🌱 I’m currently Studying for AWS Solution Architect
+- 🌱 I’m currently Studying for AWS Developer
 
 
 ### Sharing
